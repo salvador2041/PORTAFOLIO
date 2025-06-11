@@ -1,0 +1,6 @@
+.logo-sena {
+  width: 50px; /* ajusta el tamaño que quieras */
+  height: auto; /* para mantener proporción */
+  display: block;
+  margin: -1 auto; /* para centrar horizontalmente */
+}
